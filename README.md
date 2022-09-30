@@ -8,7 +8,9 @@
 
 ## Animação feita em css com efeito de água submergindo
 
-
+<div align="center">
+    <img src="./print.PNG" alt="daily.dev" width="550">
+</div>
 
 ### 🎨 Frontend
 
